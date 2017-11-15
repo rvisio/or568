@@ -1,3 +1,5 @@
+#SOURCE: https://www.kaggle.com/talysacc/simple-lgbm-starter-with-3-fold-cv-lb-0-65249
+
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
